@@ -1,3 +1,14 @@
+//my css
+.topBar {
+  display: flex;
+  flex-direction: row;
+  border-width: 1;
+  border-color: gray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+//default css
 .App {
   text-align: center;
 }
